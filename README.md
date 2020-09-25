@@ -29,10 +29,6 @@ Create a webpage of the Cybersec Clinique Website. It requires knowledge in HTML
 Build a survey form for Covid19 Pre-screening Form. It requires knowledge in HTML, CSS and basic javascript. This task will mainly test your skills on all
 kinds of inputs apart from your knowledge of forms and structuring your webpage.
 
-## [Getting Started](#getting-started)
-
-To get started with the tasks you need to fork this repo by clicking the fork button on the top right hand corner next to the star button. In the tasks folders you have folders numbered 1, 2, 3. These represent the tasks and where their files should be located.
-
 ## [Submitting Tasks](#submitting-tasks)
 
 To submit the tasks, push your changes to the repo you forked, and add your email and name to the readme file
