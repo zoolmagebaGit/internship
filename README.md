@@ -14,3 +14,8 @@
 
 * [Getting Started](#getting-started)
 * [Submitting Tasks](#submitting-tasks)
+
+## Getting Started
+
+To get started with the tasks you need to fork this repo by clicking the fork button on the top right hand corner next to the star button. In the tasks folders you have folders numbered 1, 2, 3. These represent the tasks and where their files should be located.
+
